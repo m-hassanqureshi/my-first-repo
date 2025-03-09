@@ -7,4 +7,4 @@ This Repository is created as a hands on Practice for my Github Assignment in In
 ### **Submitted By :**
 Name :Muhammad Hassan 
 Roll Number:BSDSF23M008 
-Course : Intro to Data Analyst
+Course : Intro to Data Science 
